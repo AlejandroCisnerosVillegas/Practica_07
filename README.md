@@ -1,3 +1,3 @@
-# Practica 07 
-## _Login Básico con Roles en HTML, CSS, SQL, PHP_
-Login básico con roles de usuario y administrador cada uno con respectiva página, validado para permitir el ingreso solo de usuarios registrados en la base de datos y con una interfaz que tiene la opción mostrar contraseña.
+# Gestión de Cuentas y Roles
+## _Área: Prácticas_
+La práctica implementada consiste en un sistema de gestión de usuarios desarrollado utilizando HTML, CSS, PHP y MySQL. Este sistema permite a los usuarios iniciar sesión en función de sus roles (Usuario o Administrador) y proporciona a los administradores una interfaz para ver y administrar los usuarios registrados en la base de datos.
