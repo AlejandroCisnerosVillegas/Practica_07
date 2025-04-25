@@ -16,7 +16,7 @@ Dependiendo del rol seleccionado, se redirige al usuario a la página correspond
 
 El sistema de gestión de usuarios proporciona una solución integral para la autenticación y administración de usuarios en una aplicación web. Utilizando tecnologías web estándar como HTML, CSS, PHP y MySQL, se garantiza una implementación robusta y escalable. Esta práctica puede servir como base para desarrollar sistemas más complejos de gestión de usuarios con funcionalidades adicionales como registro de usuarios, recuperación de contraseñas y asignación de permisos.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_07.com](https://alejandrovillegas.net/projects/practice-07/index.html)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_07.com](https://www.alejandrovillegas.dev/projects/practice-07/index.html)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 20 de julio de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
